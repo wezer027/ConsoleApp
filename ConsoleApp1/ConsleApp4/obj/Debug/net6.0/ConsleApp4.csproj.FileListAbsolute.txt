@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\bin\Debug\net6.0\ConsleApp4.exe
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\bin\Debug\net6.0\ConsleApp4.deps.json
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\bin\Debug\net6.0\ConsleApp4.runtimeconfig.json
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\bin\Debug\net6.0\ConsleApp4.dll
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\bin\Debug\net6.0\ConsleApp4.pdb
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.AssemblyInfo.cs
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.dll
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\refint\ConsleApp4.dll
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.pdb
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ConsleApp4.genruntimeconfig.cache
+C:\Users\maksi\Desktop\git 2\ConsoleApp1\ConsleApp4\obj\Debug\net6.0\ref\ConsleApp4.dll
